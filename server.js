@@ -4,6 +4,7 @@ const hubsRouter = require('./hubs/hubs-router.js');
 
 const server = express();
 
+// global middleware -- it will be executed on every request that comes in to the server
 server.use(express.json());
 
 server.use('/api/hubs', hubsRouter);
