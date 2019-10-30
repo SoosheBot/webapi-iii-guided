@@ -1,4 +1,8 @@
-Middleware notes
+#Middleware notes
+
+##Jargon
+-Separation of Concerns
+_We do not write code for the computer, code is a communication device, a way to reveal our intentions to the next developer_
 
 **EVERYTHING IS MIDDLEWAAAAREEE!!**
 
