@@ -1,3 +1,6 @@
+
+
+
 #Middleware notes
 
 ##Jargon
@@ -16,7 +19,8 @@ _We do not write code for the computer, code is a communication device, a way to
 
 ##Types (based on how it's being used)
 
--global: runs on every request that comes in to the server
 
+-global: runs on every request that comes in to the server
+-local: //fill in the blanks here from Luis' notes
 
 TO NOTE: Order matters. It goes top to bottom, and left to right
